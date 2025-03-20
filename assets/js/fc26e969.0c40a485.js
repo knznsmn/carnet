@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarnet=self.webpackChunkcarnet||[]).push([[1795],{7621:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/notes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":9,"blogDescription":"A collection of knznsmn notes.","blogTitle":"My Notes"}}')}}]);

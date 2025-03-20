@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcarnet=self.webpackChunkcarnet||[]).push([[8022],{1448:e=>{e.exports=JSON.parse('{"blogBasePath":"/notes","blogTitle":"My Notes","authorsListPath":"/notes/authors"}')}}]);
