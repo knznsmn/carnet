@@ -18,6 +18,8 @@ npm run build
 
 The static files are generated in the `build` folder.
 
+<!-- truncate -->
+
 ## Lua
 
 Test your production build locally:

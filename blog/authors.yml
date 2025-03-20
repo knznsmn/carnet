@@ -1,12 +1,12 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+knznsmn:
+  name: Julius Cinco Cesar
+  title: Graphic Designer
+  url: https://github.com/knznsmn
+  image_url: https://github.com/knznsmn.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: knznsmn
+    github: knznsmn
 
 slorber:
   name: Sébastien Lorber
