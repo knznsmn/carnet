@@ -24,6 +24,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'knznsmn', // Usually your GitHub org/user name.
   projectName: 'carnet', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -36,6 +37,20 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "notes",
+        routeBasePath: "notes", // URL path: /notes
+        path: "./notes", // Directory where Markdown files are stored
+        showReadingTime: true,
+        blogTitle: "My Notes",
+        blogDescription: "A collection of knznsmn notes.",
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -46,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/knznsmn/carnet/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +72,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/knznsmn/carnet/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -81,65 +96,23 @@ const config = {
           alt: 'Carnet: Deuxieme Cerveau',
           src: 'img/logo.svg',
         },
+        hideOnScroll: true,
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/knznsmn',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: '/notes', label: 'Notes', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/about', label: 'About', position: 'right'},
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Notes',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/knznsmn',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/knznsmn',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/knznsmn',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Carnet, knznsmn. All rights reversed.`,
+        links: [],
+        copyright: `Copyright © ${new Date().getFullYear()} knznsmn. All rights reversed.`,
       },
       prism: {
         theme: prismThemes.github,
