@@ -1,0 +1,21 @@
+.page {
+  text-align: center;
+}
+.page h1 {
+  font-size: 5rem;
+  background: -webkit-linear-gradient(#D36135, #80B069);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: default;
+}
+.page button {
+  display: inline-flex;
+  justify-content: space-between;
+  margin: .5rem auto;
+  padding: .5rem 1rem;
+  background: hsla(137, 10%, 20%, .2);
+  width: 70%;
+  border-radius: 1000rem;
+}
+
