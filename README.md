@@ -1,3 +1,3 @@
-# Carnet
+# Carnet: BSCS
 
-BSCS Notes
+All subject notes.
