@@ -1,0 +1,9 @@
+For me, the useful aspects of course assignments 
+
+Throughout this English course, the assignments provided a valuable opportunity for me to explore and improve my writing skills. The tasks involved a variety of activities such as essay writing and and peer reviews, reading and analyzing academic papers from reliable sources like Jstor, and citing relevant sources in the APA style. Each task was designed to target different aspects of English writing.
+
+To complete these tasks, I followed a structured approach. I began by carefully analyzing the given instructions, conducting necessary research, and outlining my thoughts before drafting using my preferred tools. I made use of online grammar tools and dictionaries to ensure clarity and correctness.
+
+These activities revealed both strengths and weaknesses in my writing. One strength I noticed was my ability to organize ideas logically and maintain coherence throughout my essays. I also found that I was able to express opinions clearly than before, specially if I leave my assignment for a day and then comes back to it with fresh eyes. However, a few weaknesses became apparent as well. I often struggled with varying sentence structures and occasionally made grammatical errors, especially with tenses and prepositions.
+
+To address these areas of improvement in the coming weeks, I plan to take a more proactive approach to learning. I will read more academic and literary materials to observe how professional writers structure their texts. I also intend to practice writing short passages daily, focusing on variety in sentence construction and proper grammar usage. By consistently applying these strategies, I hope to become a more confident and effective writer in English.
