@@ -1,0 +1,12 @@
+I recently read an article critiquing Adobe's transition to an AI-focused Creative Cloud Pro plan. It exemplifies effective use of persuasive writing to challenge the reader’s reliance on Adobe products. As a graphic designer, I use not-so-few Adobe products myself. The writer utilizes key persuasive techniques such as **emotional appeal, logical reasoning, and ethical concern** to influence photographers to reconsider their subscriptions.
+
+The emotional appeal is strong, particularly in phrases like “many of whom feel pressured into features they neither want nor need” and “for a hobbyist, it’s ridiculous” (Cooke, 2025). These statements connect with readers, myself included, who may feel similarly frustrated by increasing costs and loss of choice. By emphasizing Adobe's automatic migration of users to a higher-priced tier, the article creates a sense of urgency and injustice.
+
+Arguments grounded in reason and evidence are often considered the strongest (Neveu et al., 2019). The author's use of logical reasoning is evident through detailed comparisons of price changes, lost features, and AI credits. The article notes that current subscribers pay $60/month with 1,000 AI credits, but under the new plan, we'll pay $70/month for similar benefits—if we downgrade, we lose essential mobile features. This structured breakdown strengthens the argument by demonstrating how Adobe's strategy is financially disadvantageous for us.
+
+The article also leverages ethos by citing alternatives like GIMP, Affinity, and DaVinci Resolve, which offer stable pricing and user-focused updates (Cooke, 2025). This supports the credibility of the author’s stance while giving us actionable solutions.
+
+The author exposes Adobe’s bias toward commercial gains over user choice, reinforcing the idea that Adobe prioritizes profit over people. This persuasive piece is effective in influencing us readers to evaluate whether Adobe still serves our best interests.
+
+Cooke, A. (2025, May 20). _There’s never been a better time to dump Adobe_. Fstoppers. https://fstoppers.com/news/theres-never-been-better-time-dump-adobe-701907
+Neveu, C., Smith, M., Gaudet, L., & Last, S. (2019, January 1). _2.3 writing to persuade_. Technical Writing Essentials. https://pressbooks.bccampus.ca/technicalwriting/chapter/writingpersuade/
