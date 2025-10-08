@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sujets/engl102/discussion_unit_07_answer.md",
+                "file": "Setting Up Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "discussion_unit_07_answer"
+              "title": "Setting Up Git"
             }
           }
         ]
@@ -160,18 +160,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "bfc3e9a405d8492b",
   "lastOpenFiles": [
-    "sujets/engl102/discussion_unit_07.md",
+    "README.md",
     "sujets/engl102/discussion_unit_07_answer.md",
+    "sujets/engl102/discussion_unit_07.md",
     "sujets/engl102/assignment_activity_unit_06_answer.md",
     "sujets/engl102/lu251579ali2ao.tmp",
     "sujets/engl102/lu251579ali2am.tmp",
@@ -191,7 +194,7 @@
     "sujets/engl102/lu19438oiwsa.tmp",
     "sujets/engl102/lu19438oiws8.tmp",
     "sujets/engl102/assignment_activity_unit_05.docx",
-    "Untitled.md",
+    "Setting Up Git.md",
     "sujets/engl102/discussion_unit_05.md",
     "sujets/engl102/assignment_activity_unit_04_answer.md",
     "sujets/engl102/assignment_activity_unit_04.md",
@@ -203,7 +206,6 @@
     "sujets/engl102/discussion_unit_02_answer.md",
     "sujets/engl102/discussion_unit_03.md",
     "sujets/engl102/discussion_unit_02.md",
-    "sujets/engl102/README.md",
-    "README.md"
+    "sujets/engl102/README.md"
   ]
 }
